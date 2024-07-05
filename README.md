@@ -4,4 +4,4 @@ To introduce about Pete background and what he is specialized for and present hi
 HTML
 CSS
 ### Build status
-Final uploaded and tested
+Final upload and tested
